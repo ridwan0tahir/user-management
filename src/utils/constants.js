@@ -1,0 +1,1 @@
+export const STORAGE_KEY = 'USER_MANAGEMENT_TEST_KEY'
